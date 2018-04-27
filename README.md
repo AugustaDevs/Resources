@@ -54,14 +54,14 @@
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 # Resources
-[Pexels Free Photos](https://www.pexels.com/)
-[Unsplash Free Photos](https://unsplash.com/)
-[Hipster Ipsum](https://hipsum.co/)
-[Big O Cheatsheet](http://bigocheatsheet.com/)
-[Box Shadow](https://www.cssmatic.com/box-shadow)
-[Cloudinary Free Image Hosting](https://cloudinary.com/)
-[Easing](http://easings.net/)
+- [Pexels Free Photos](https://www.pexels.com/)
+- [Unsplash Free Photos](https://unsplash.com/)
+- [Hipster Ipsum](https://hipsum.co/)
+- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- [Box Shadow](https://www.cssmatic.com/box-shadow)
+- [Cloudinary Free Image Hosting](https://cloudinary.com/)
+- [Easing](http://easings.net/)
 
 ## Web Dev
-[Reddit Programming](https://www.reddit.com/r/programming/)
-[codeburst.io](https://codeburst.io/)
+- [Reddit Programming](https://www.reddit.com/r/programming/)
+- [codeburst.io](https://codeburst.io/)
