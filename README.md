@@ -1,4 +1,4 @@
-![](./img/logo.png)
+![](./image/logo.png)
 # Lists
 - [38 Great Resources for Game Developers](www.gamasutra.com/blogs/JasmineGreene/20170926/306446/38_Great_Resources_for_Game_Developers.php)
 - [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
