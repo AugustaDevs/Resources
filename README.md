@@ -38,17 +38,16 @@
 - [Experiments with Google](https://experiments.withgoogle.com/)
 
 # Study Materials
-- [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+  - [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-## Javascript
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
-- [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
-- [Choosing cameras in JavaScript with the mediaDevices API](https://www.twilio.com/blog/2018/04/choosing-cameras-javascript-mediadevices-api.html)
-## Computer Science
-- [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
-- [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
-- [Base CS](https://medium.com/basecs)
+  - ## Javascript
+    - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+    - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
+    - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
+  - ## Computer Science
+    - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
+    - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+    - [Base CS](https://medium.com/basecs)
 
 # Stay Up to Date
 - [Hacker News](https://news.ycombinator.com/)
@@ -59,22 +58,23 @@
 - [Rand Fishkin at Moz](https://moz.com/community/users/63)
 
 # Resources
-- [Pexels Free Photos](https://www.pexels.com/)
-- [Unsplash Free Photos](https://unsplash.com/)
-- [Hipster Ipsum](https://hipsum.co/)
-- [Box Shadow](https://www.cssmatic.com/box-shadow)
-- [Cloudinary Free Image Hosting](https://cloudinary.com/)
-- [Easing](http://easings.net/)
-- [Can I Use](https://caniuse.com/)
+  - ## General
+    - [Pexels Free Photos](https://www.pexels.com/)
+    - [Unsplash Free Photos](https://unsplash.com/)
+    - [Hipster Ipsum](https://hipsum.co/)
+    - [Box Shadow](https://www.cssmatic.com/box-shadow)
+    - [Cloudinary Free Image Hosting](https://cloudinary.com/)
+    - [Easing](http://easings.net/)
+    - [Can I Use](https://caniuse.com/)
 
-## Web Dev
-- [Reddit Programming](https://www.reddit.com/r/programming/)
-- [codeburst.io](https://codeburst.io/)
-## Cheat Sheets
-- [Big O Cheatsheet](http://bigocheatsheet.com/)
-- [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
-## Fonts and Typography
-- [Google Fonts](https://fonts.google.com/)
+  - ## Web Dev
+    - [Reddit Programming](https://www.reddit.com/r/programming/)
+    - [codeburst.io](https://codeburst.io/)
+  - ## Cheat Sheets
+      - [Big O Cheatsheet](http://bigocheatsheet.com/)
+      - [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
+  - ## Fonts and Typography
+    - [Google Fonts](https://fonts.google.com/)
 
 # Documentation for the web
   - [MDN Web Docs](https://developer.mozilla.org/en-US/)
