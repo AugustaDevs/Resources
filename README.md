@@ -44,6 +44,7 @@
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
     - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
+    - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
   - ## Computer Science
     - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
     - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
@@ -75,6 +76,11 @@
       - [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
   - ## Fonts and Typography
     - [Google Fonts](https://fonts.google.com/)
+  - ## Source Control
+    - [Git Immersion](http://gitimmersion.com)
+    - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+    - [Learn Git Branching](https://learngitbranching.js.org)
+    - [Git Branching Strategy](http://nvie.com/posts/a-successful-git-branching-model/)
 
 # Documentation for the web
   - [MDN Web Docs](https://developer.mozilla.org/en-US/)
