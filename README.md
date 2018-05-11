@@ -6,6 +6,7 @@
 - [Designer's List](https://www.designerslist.info/)
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [Wireframes](http://wireframes.tumblr.com/)
+- [Frontend Happy Hour Picks](https://github.com/FrontEndHappyHour/front-end-happy-hour-picks)
 
 # Tutorials
 - [Mozilla's Web Dev Tutorials](https://developer.mozilla.org/en-US/docs/Learn)
