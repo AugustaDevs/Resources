@@ -1,4 +1,9 @@
 ![](./image/logo.png)
+
+# [The Augusta Developer Website](https://augustadevs.github.io/)
+### [The Augusta Devloper Organization](https://github.com/AugustaDevs)
+
+
 # Lists
 - [38 Great Resources for Game Developers](www.gamasutra.com/blogs/JasmineGreene/20170926/306446/38_Great_Resources_for_Game_Developers.php)
 - [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
@@ -92,30 +97,30 @@
   - [All W3C Standards and Drafts](https://www.w3.org/TR/)
   - [RFCs](https://www.ietf.org/standards/rfcs/)
 # Performance
-- ### Tools 
+- ### Tools
   - [PageSpeed Insights from Google](https://developers.google.com/speed/pagespeed/insights/)
   - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly?utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect)
 # Web Security
-- ### Guides 
+- ### Guides
   - [Awesome Reference Guide from Mozzilla's Infosec Team](https://infosec.mozilla.org/guidelines/web_security.html)
 - ### Tutorials
   - [Let's Encrypt Tutorials](https://www.digitalocean.com/community/tags/let-s-encrypt?type=tutorials)
 - ### Tools
-  - [Observatory by Mozzilla (free security scan for your domain)]() 
+  - [Observatory by Mozzilla (free security scan for your domain)]()
   - [Add-on from Mozzilla for Automating a Secure Content Security Policy](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla/)
   - [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 # Css
 - ### Selectors
   - [Css Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
-  - [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/) 
-  - [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors) 
+  - [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/)
+  - [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
 
 - ### Layout
   - ### CSS Grid
     - [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
     - [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
   - ### Flexbox
-    - [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e) 
+    - [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
     - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     - [Flexbox Froggy](https://flexboxfroggy.com/)
 - ### Misc
