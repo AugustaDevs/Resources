@@ -128,6 +128,11 @@
 # SQL
 - [MySQL CLI Cheat Sheet](https://gist.github.com/hofmannsven/9164408)
 
+# ES6
+- [ES6 Cheat Sheet](http://es6-features.org/)
+# NodeJS
+- [Preventing SQLI with Node](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
+
 - ### Misc
   - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
   - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
