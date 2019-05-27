@@ -133,6 +133,11 @@
 # NodeJS
 - [Preventing SQLI with Node](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
 
+# Interview Prep
+- [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
+
 - ### Misc
   - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
-  - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
+
+
+- [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
