@@ -133,6 +133,10 @@
     - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
     - [Flexbox Froggy](https://flexboxfroggy.com/)
 
+
+# GraphQL
+- [GraphQL for FE Devs](https://css-tricks.com/front-end-developers-guide-graphql/)
+
 # SQL
 - [MySQL CLI Cheat Sheet](https://gist.github.com/hofmannsven/9164408)
 
