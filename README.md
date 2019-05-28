@@ -73,20 +73,28 @@
     - [Cloudinary Free Image Hosting](https://cloudinary.com/)
     - [Easing](http://easings.net/)
     - [Can I Use](https://caniuse.com/)
+    
+## Images
+- [UnDraw](https://undraw.co/)
 
-  - ## Web Dev
-    - [Reddit Programming](https://www.reddit.com/r/programming/)
-    - [codeburst.io](https://codeburst.io/)
-  - ## Cheat Sheets
-      - [Big O Cheatsheet](http://bigocheatsheet.com/)
-      - [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
-  - ## Fonts and Typography
-    - [Google Fonts](https://fonts.google.com/)
-  - ## Source Control
-    - [Git Immersion](http://gitimmersion.com)
-    - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
-    - [Learn Git Branching](https://learngitbranching.js.org)
-    - [Git Branching Strategy](http://nvie.com/posts/a-successful-git-branching-model/)
+## Web Dev
+- [Reddit Programming](https://www.reddit.com/r/programming/)
+- [codeburst.io](https://codeburst.io/)
+
+## Cheat Sheets
+- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
+
+## Fonts and Typography
+- [Google Fonts](https://fonts.google.com/)
+- ## Source Control
+- [Git Immersion](http://gitimmersion.com)
+- [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+- [Learn Git Branching](https://learngitbranching.js.org)
+- [Git Branching Strategy](http://nvie.com/posts/a-successful-git-branching-model/)
+
+## Serverless
+- [Codepen and Firebase](https://blog.codepen.io/2018/01/15/build-serverless-blog-codepen/)
 
 # Documentation for the web
   - [MDN Web Docs](https://developer.mozilla.org/en-US/)
