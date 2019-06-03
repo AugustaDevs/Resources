@@ -144,6 +144,7 @@
 - [ES6 Cheat Sheet](http://es6-features.org/)
 # NodeJS
 - [Preventing SQLI with Node](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
+- [Node JS Testing Intro](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
 
 # Interview Prep
 - [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
