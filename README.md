@@ -27,6 +27,7 @@
 # Veteran Tech Benefits
 - [AWS Educate Now Available to U.S. Veterans | AWS Government, Education, & Nonprofits Blo](https://aws.amazon.com/blogs/publicsector/aws-educate-now-available-to-u-s-veterans/)
 - [Free Sales force training for Vets](https://veterans.force.com/NewVetForceHome)
+- [Linkedin for Vets](https://socialimpact.linkedin.com/programs/veterans/premiumform)
 
 
 # Coding for Kids
