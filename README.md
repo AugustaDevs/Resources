@@ -13,6 +13,7 @@
 - [Wireframes](http://wireframes.tumblr.com/)
 - [Frontend Happy Hour Picks](https://github.com/FrontEndHappyHour/front-end-happy-hour-picks)
 - [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
+- [Everything Serverless](https://serverless.css-tricks.com/resources/)
 
 # Tutorials
 - [Mozilla's Web Dev Tutorials](https://developer.mozilla.org/en-US/docs/Learn)
