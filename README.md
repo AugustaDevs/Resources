@@ -14,6 +14,7 @@
 - [Frontend Happy Hour Picks](https://github.com/FrontEndHappyHour/front-end-happy-hour-picks)
 - [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
 - [Everything Serverless](https://serverless.css-tricks.com/resources/)
+- [Cool APIs](https://rapidapi.com/collection/cool-apis)
 
 # Tutorials
 - [Mozilla's Web Dev Tutorials](https://developer.mozilla.org/en-US/docs/Learn)
@@ -45,6 +46,7 @@
 
 # Cool Stuff
 - [Experiments with Google](https://experiments.withgoogle.com/)
+- [Noops Challenge w/ Github](https://noopschallenge.com/)
 
 # Study Materials
   - [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -148,6 +150,10 @@
 # NodeJS
 - [Preventing SQLI with Node](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
 - [Node JS Testing Intro](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
+
+# APIs
+- [Ru Paul's](https://drag-race-api.readme.io/docs)
+
 
 # Interview Prep
 - [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
