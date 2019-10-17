@@ -112,7 +112,7 @@
 
 # Performance
 - ### Tools
-  - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly?
+  - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly)
   - [PageSpeed Insights from Google](https://developers.google.com/speed/pagespeed/insights/)
   - [GTMetrix- Free Google and Yahoo page speed analytics](https://gtmetrix.com/)
   
