@@ -28,6 +28,8 @@
 #### Icons
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
 - [Dev Icons](https://konpa.github.io/devicon/)
+- [React Native Vector icons](https://github.com/oblador/react-native-vector-icons)
+- [Iconify](https://iconify.design)
 - [Material UI Icons](https://material.io/resources/icons/)
 
 #### Images
@@ -44,6 +46,7 @@
 ## Cheat Sheets
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
+- [FE cheatsheet](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41/)
 
 ## Fonts and Typography
 - [Google Fonts](https://fonts.google.com/)
@@ -62,6 +65,7 @@
 - [Reddit Programming](https://www.reddit.com/r/programming/)
 - [codeburst.io](https://codeburst.io/)
 - [Intro to Web Dev](http://www.internetfundamentals.com/)
+- [myjson](http://myjson.com/)
 
 # Language Training
 - [Exercism.io](http://exercism.io/)
@@ -209,6 +213,8 @@
 
 # Interview Prep
 - [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
 
 ### Misc
 - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
