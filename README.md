@@ -6,6 +6,7 @@
 
 # Coding for Kids
 - [bitsbox](https://bitsbox.com/)
+- [MIT's Scratch](https://scratch.mit.edu/)
 
 # Cool Stuff
 - [Experiments with Google](https://experiments.withgoogle.com/)
