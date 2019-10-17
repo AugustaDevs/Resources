@@ -3,6 +3,7 @@
 # [The Augusta Developer Website](https://augustadevs.github.io/)
 ### [The Augusta Devloper Organization](https://github.com/AugustaDevs)
 
+
 # Coding for Kids
 - [bitsbox](https://bitsbox.com/)
 - [Code Ninjas](https://www.codeninjas.com/)
@@ -11,13 +12,13 @@
 - [Experiments with Google](https://experiments.withgoogle.com/)
 
 # Documentation for the web
-- [All W3C Standards and Drafts](https://www.w3.org/TR/)
-- [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-  - [all HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-  - [all HTML attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
-  - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [RFCs](https://www.ietf.org/standards/rfcs/)
+  - [All W3C Standards and Drafts](https://www.w3.org/TR/)
+  - [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+    - [all HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+    - [all HTML attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+    - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  - [RFCs](https://www.ietf.org/standards/rfcs/)
 
 # Free
 #### Design
@@ -32,6 +33,7 @@
 - [Unsplash Free Photos](https://unsplash.com/)
 
 #### Ipsum
+
 - [Hipster Ipsum](https://hipsum.co/)
 - [Cloudinary Free Image Hosting](https://cloudinary.com/)
 - [Easing](http://easings.net/)
@@ -83,6 +85,7 @@
 - ###### Tools
   - [Box Shadow](https://www.cssmatic.com/box-shadow)
   - [Clip Path](https://bennettfeely.com/clippy/)
+  
 #### ES6
 - [ES6 Cheat Sheet](http://es6-features.org/)
 
@@ -113,8 +116,8 @@
 - ### Tools
   - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly?
   - [PageSpeed Insights from Google](https://developers.google.com/speed/pagespeed/insights/)
-    utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect)
-
+  utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect)
+  
 # Stay Up to Date
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [Frontend Focus](https://frontendfoc.us/)
@@ -123,19 +126,18 @@
 - [Rand Fishkin at Moz](https://moz.com/community/users/63)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 
-# Study Materials	# Study Materials
-  - [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)	- [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+# Study Materials
+  - [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-
-- ## Javascript	- ## Javascript
-  - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)	  - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
-  - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)	  - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
-  - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)	  - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)	  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- ## Computer Science	- ## Computer Science
-  - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)	  - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
-  - [Base CS](https://medium.com/basecs)	  - [Base CS](https://medium.com/basecs)
-  - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
+  - ## Javascript
+    - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
+    - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+    - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
+    - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - ## Computer Science
+    - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+    - [Base CS](https://medium.com/basecs)
+    - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
 
 # Tutorials
 - [Colt Steele's Udemy Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
@@ -156,6 +158,7 @@
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
+  
 # Web Security
 - ### Guides
   - [Awesome Reference Guide from Mozzilla's Infosec Team](https://infosec.mozilla.org/guidelines/web_security.html)
