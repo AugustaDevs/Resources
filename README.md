@@ -1,7 +1,6 @@
 ![](./image/logo.png)
 
 # [The Augusta Developer Website](https://augustadevs.github.io/)
-
 ### [The Augusta Devloper Organization](https://github.com/AugustaDevs)
 
 # Coding for Kids
@@ -21,7 +20,6 @@
 - [RFCs](https://www.ietf.org/standards/rfcs/)
 
 # Free
-
 #### Design
 - [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
 
@@ -85,7 +83,6 @@
 - ###### Tools
   - [Box Shadow](https://www.cssmatic.com/box-shadow)
   - [Clip Path](https://bennettfeely.com/clippy/)
-
 #### ES6
 - [ES6 Cheat Sheet](http://es6-features.org/)
 
@@ -109,7 +106,7 @@
 - [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
 - [Everything Serverless](https://serverless.css-tricks.com/resources/)
 - [Frontend Happy Hour Picks](https://github.com/FrontEndHappyHour/front-end-happy-hour-picks)
-- [Programming _expletive_](http://programming-motherfucker.com/)
+- [Programming *expletive*](http://programming-motherfucker.com/)
 - [Wireframes](http://wireframes.tumblr.com/)
 
 # Performance
@@ -126,17 +123,18 @@
 - [Rand Fishkin at Moz](https://moz.com/community/users/63)
 - [Smashing Magazine](https://www.smashingmagazine.com)
 
-# Study Materials
-- [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+# Study Materials	# Study Materials
+  - [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)	- [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-- ## Javascript
-  - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
-  - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
-  - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
-  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- ## Computer Science
-  - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
-  - [Base CS](https://medium.com/basecs)
+
+- ## Javascript	- ## Javascript
+  - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)	  - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
+  - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)	  - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
+  - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)	  - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)	  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- ## Computer Science	- ## Computer Science
+  - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)	  - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+  - [Base CS](https://medium.com/basecs)	  - [Base CS](https://medium.com/basecs)
   - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
 
 # Tutorials
@@ -158,7 +156,6 @@
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
-
 # Web Security
 - ### Guides
   - [Awesome Reference Guide from Mozzilla's Infosec Team](https://infosec.mozilla.org/guidelines/web_security.html)
