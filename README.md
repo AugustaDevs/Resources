@@ -65,6 +65,9 @@
 # Language Training
 - [Exercism.io](http://exercism.io/)
 
+## Documentation
+- [dev docs](https://devdocs.io/)
+
 # Languages/Language Features
 
 #### CSS
