@@ -31,6 +31,9 @@
 - [Pexels Free Photos](https://www.pexels.com/)
 - [Unsplash Free Photos](https://unsplash.com/)
 
+### Illustrations
+- [Undraw Free Illustrations](https://undraw.co/)
+
 #### Ipsum
 
 - [Hipster Ipsum](https://hipsum.co/)
@@ -111,7 +114,7 @@
 - ### Tools
   - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly?
   - [PageSpeed Insights from Google](https://developers.google.com/speed/pagespeed/insights/)
-  utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect)
+  - [GTMetrix- Free Google and Yahoo page speed analytics](https://gtmetrix.com/)
   
 # Stay Up to Date
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
@@ -153,6 +156,7 @@
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
+- [Awwwards - Best website designs](https://www.awwwards.com/]
   
 # Web Security
 - ### Guides
