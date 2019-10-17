@@ -81,9 +81,11 @@
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [Flexbox Froggy](https://flexboxfroggy.com/)
 - ###### Selectors
-  - [Css Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
+
+  - [CSS Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
+  - [CSS Selectors Reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
   - [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/)
-  - [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
+
 - ###### Tools
   - [Box Shadow](https://www.cssmatic.com/box-shadow)
   - [Clip Path](https://bennettfeely.com/clippy/)
@@ -117,11 +119,24 @@
 - [Wireframes](http://wireframes.tumblr.com/)
 
 # Performance
-- ### Tools
-  - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly?
-  - [PageSpeed Insights from Google](https://developers.google.com/speed/pagespeed/insights/)
-  utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect)
-  
+- ### User Interface
+  - [Mobile-friendly Test (Google)](https://search.google.com/test/mobile-friendly)
+  - [PageSpeed Insights (Google)](https://developers.google.com/speed/pagespeed/insights/)
+  - [PageSpeed Insights (GTmetrix)](https://gtmetrix.com/)
+- ### SEO
+  - [SEOquake SEO analysis Chrome addon](https://www.seoquake.com/index.html)
+  - [MozBar SEO Analysis Chrome addon](https://moz.com/products/pro/seo-toolbar)
+  - [YOAST Academy SEO Training](https://yoast.com/academy/)
+
+- ### Accessibility
+  - [Free Google Web Accessibility Course (Udacity)](https://www.udacity.com/course/web-accessibility--ud891)
+  - [Accessibility Basics (Usability.gov)](https://www.usability.gov/what-and-why/accessibility.html)
+
+# Podcasts
+- [Developer Tea - Programming and development](https://spec.fm/podcasts/developer-tea)
+- [Shoptalk Show - Website development](https://shoptalkshow.com/)
+- [Malicious Life - Cybersecurity History](https://malicious.life/)
+
 # Stay Up to Date
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [Frontend Focus](https://frontendfoc.us/)
@@ -139,15 +154,24 @@
     - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
     - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
   - ## Computer Science
     - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
     - [Base CS](https://medium.com/basecs)
     - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
 
+# Text Editors
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Brackets](http://brackets.io/)
+- [Vim](https://www.vim.org/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com)
+
 # Tutorials
 - [Colt Steele's Udemy Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 - [Google SEO](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
-- [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+- [Introduction to React](https://reactjs.org/tutorial/tutorial.html)
 - [Javascript30](https://javascript30.com/)
 - [Mozilla's Web Dev Tutorials](https://developer.mozilla.org/en-US/docs/Learn)
 - [Project Based Tutorials](https://github.com/tuvtran/project-based-learning)
@@ -156,20 +180,27 @@
 - [Workshopper](https://github.com/workshopper)
 
 # Veteran Tech Benefits
-- [AWS Educate Now Available to U.S. Veterans | AWS Government, Education, & Nonprofits Blo](https://aws.amazon.com/blogs/publicsector/aws-educate-now-available-to-u-s-veterans/)
-- [Free Sales force training for Vets](https://veterans.force.com/NewVetForceHome)
-- [Linkedin for Vets](https://socialimpact.linkedin.com/programs/veterans/premiumform)
+- [AWS Educate Now Available to U.S. Veterans | AWS Government, Education, & Nonprofits Blog](https://aws.amazon.com/blogs/publicsector/aws-educate-now-available-to-u-s-veterans/)
+- [Free Salesforce training for Vets](https://veterans.force.com/NewVetForceHome)
+- [LinkedIn for Vets](https://socialimpact.linkedin.com/programs/veterans/premiumform)
+
+# Website Frameworks
+- [Bootstrap](https://getbootstrap.com/)
+- [Foundation by Zurb](https://foundation.zurb.com/)
+- [Bulma](https://bulma.io/)
+- [Skeleton](http://getskeleton.com/)
 
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
-  
+
 # Web Security
 - ### Guides
   - [Awesome Reference Guide from Mozzilla's Infosec Team](https://infosec.mozilla.org/guidelines/web_security.html)
+  - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - ### Tools
-  - [Observatory by Mozzilla (free security scan for your domain)]()
-  - [Add-on from Mozzilla for Automating a Secure Content Security Policy](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla/)
+  - [Observatory by Mozilla (free security scan for your domain)](https://observatory.mozilla.org/)
+  - [Add-on from Mozilla for Automating a Secure Content Security Policy](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla/)
   - [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 - ### Tutorials
   - [Let's Encrypt Tutorials](https://www.digitalocean.com/community/tags/let-s-encrypt?type=tutorials)
@@ -183,6 +214,3 @@
 - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
 - [10 Signs You will Suck at Programming ](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
 - [API Design](https://opensource.zalando.com/restful-api-guidelines/)
-
-
-
