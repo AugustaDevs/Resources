@@ -6,9 +6,11 @@
 
 # Coding for Kids
 - [bitsbox](https://bitsbox.com/)
+- [MIT's Scratch](https://scratch.mit.edu/)
 
 # Cool Stuff
 - [Experiments with Google](https://experiments.withgoogle.com/)
+- [Color Theory](https://tallys.github.io/color-theory/)
 
 # Documentation for the web
   - [All W3C Standards and Drafts](https://www.w3.org/TR/)
@@ -18,7 +20,7 @@
     - [all HTML attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
     - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [RFCs](https://www.ietf.org/standards/rfcs/)
-
+  
 # Free
 #### Design
 - [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
@@ -26,6 +28,7 @@
 #### Icons
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
 - [Dev Icons](https://konpa.github.io/devicon/)
+- [Material UI Icons](https://material.io/resources/icons/)
 
 #### Images
 - [Pexels Free Photos](https://www.pexels.com/)
@@ -63,12 +66,16 @@
 # Language Training
 - [Exercism.io](http://exercism.io/)
 
+## Documentation
+- [dev docs](https://devdocs.io/)
+
 # Languages/Language Features
 
 #### CSS
 - ###### CSS Grid
   - [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
   - [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
+  - [Grig garden](http://cssgridgarden.com/)
 - ###### Flexbox
   - [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -82,6 +89,8 @@
 - ###### Tools
   - [Box Shadow](https://www.cssmatic.com/box-shadow)
   - [Clip Path](https://bennettfeely.com/clippy/)
+  - [Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 
 #### ES6
 - [ES6 Cheat Sheet](http://es6-features.org/)
@@ -141,6 +150,7 @@
 
   - ## Javascript
     - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
+    - [JavaScript info - The Modern JavaScript Tutorial](https://javascript.info/)
     - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
     - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
