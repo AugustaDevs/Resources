@@ -74,6 +74,7 @@
 - ###### CSS Grid
   - [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
   - [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
+  - [Grig garden](http://cssgridgarden.com/)
 - ###### Flexbox
   - [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -133,6 +134,7 @@
 
   - ## Javascript
     - [JavaScript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)
+    - [JavaScript info - The Modern JavaScript Tutorial](https://javascript.info/)
     - [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans)
     - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
