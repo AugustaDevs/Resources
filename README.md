@@ -37,6 +37,9 @@
 - [Pexels Free Photos](https://www.pexels.com/)
 - [Unsplash Free Photos](https://unsplash.com/)
 
+### Illustrations
+- [Undraw Free Illustrations](https://undraw.co/)
+
 #### Ipsum
 
 - [Hipster Ipsum](https://hipsum.co/)
@@ -132,6 +135,11 @@
 - [Top Online Tutorials To Learn GraphQL](https://medium.com/quick-code/top-online-video-tutorials-to-learn-graphql-458056e3b583)
 
 # Performance
+- ### Tools
+  - [Mobile-friendly Test from Google](https://search.google.com/test/mobile-friendly)
+  - [PageSpeed Insights from Google](https://developers.google.com/speed/pagespeed/insights/)
+  - [GTMetrix- Free Google and Yahoo page speed analytics](https://gtmetrix.com/)
+  
 - ### User Interface
   - [Mobile-friendly Test (Google)](https://search.google.com/test/mobile-friendly)
   - [PageSpeed Insights (Google)](https://developers.google.com/speed/pagespeed/insights/)
@@ -206,6 +214,7 @@
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
+- [Awwwards - Best website designs](https://www.awwwards.com/)
 
 # Web Security
 - ### Guides
