@@ -41,6 +41,7 @@
 ## Cheat Sheets
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
+- [c++ cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 
 ## Fonts and Typography
 - [Google Fonts](https://fonts.google.com/)
@@ -90,6 +91,7 @@
 #### NodeJS
 - [Preventing SQLI with Node](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
 - [Node JS Testing Intro](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
+- [Production ready Node.js REST API Setup using TypeScript, PostgreSQL and Redis](https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407)
 
 #### SQL
 - [MySQL CLI Cheat Sheet](https://gist.github.com/hofmannsven/9164408)
@@ -106,6 +108,8 @@
 - [Frontend Happy Hour Picks](https://github.com/FrontEndHappyHour/front-end-happy-hour-picks)
 - [Programming *expletive*](http://programming-motherfucker.com/)
 - [Wireframes](http://wireframes.tumblr.com/)
+- [The Best Ethical Hacking Online Tutorials For Everyone](https://medium.com/quick-code/the-best-ethical-hacking-video-tutorials-for-everyone-e0cbd465b03c)
+- [Top Online Tutorials To Learn GraphQL](https://medium.com/quick-code/top-online-video-tutorials-to-learn-graphql-458056e3b583)
 
 # Performance
 - ### Tools
