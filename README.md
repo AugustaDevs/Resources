@@ -156,7 +156,7 @@
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
-- [Awwwards - Best website designs](https://www.awwwards.com/]
+- [Awwwards - Best website designs](https://www.awwwards.com/)
   
 # Web Security
 - ### Guides
