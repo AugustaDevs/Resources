@@ -9,6 +9,7 @@
 
 # Cool Stuff
 - [Experiments with Google](https://experiments.withgoogle.com/)
+- [Color Theory](https://tallys.github.io/color-theory/)
 
 # Documentation for the web
   - [All W3C Standards and Drafts](https://www.w3.org/TR/)
@@ -18,7 +19,7 @@
     - [all HTML attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
     - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [RFCs](https://www.ietf.org/standards/rfcs/)
-
+  
 # Free
 #### Design
 - [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
@@ -26,6 +27,7 @@
 #### Icons
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
 - [Dev Icons](https://konpa.github.io/devicon/)
+- [Material UI Icons](https://material.io/resources/icons/)
 
 #### Images
 - [Pexels Free Photos](https://www.pexels.com/)
@@ -80,7 +82,9 @@
 - ###### Tools
   - [Box Shadow](https://www.cssmatic.com/box-shadow)
   - [Clip Path](https://bennettfeely.com/clippy/)
-  
+  - [Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
 #### ES6
 - [ES6 Cheat Sheet](http://es6-features.org/)
 
