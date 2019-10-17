@@ -175,4 +175,10 @@
 - [API Design](https://opensource.zalando.com/restful-api-guidelines/)
 
 
+### Git & Github
+-[Refrences on understanding what the version control is all about & how it will help your coding life!]
+        (https://guides.github.com/introduction/git-handbook/)
+        (https://github.github.com/training-kit/downloads/submodule-vs-subtree-cheat-sheet/)
+        (https://medium.com/@nickcapurso/a-tutorial-on-git-and-github-from-installation-to-pull-requests-7f158faf2695)
+
 
