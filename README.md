@@ -6,6 +6,7 @@
 
 # Coding for Kids
 - [bitsbox](https://bitsbox.com/)
+- [Code Ninjas](https://www.codeninjas.com/)
 - [MIT's Scratch](https://scratch.mit.edu/)
 
 # Cool Stuff
@@ -50,6 +51,7 @@
 
 ## Fonts and Typography
 - [Google Fonts](https://fonts.google.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/)
 
 ## Serverless
 - [Codepen and Firebase](https://blog.codepen.io/2018/01/15/build-serverless-blog-codepen/)
@@ -65,10 +67,13 @@
 - [Reddit Programming](https://www.reddit.com/r/programming/)
 - [codeburst.io](https://codeburst.io/)
 - [Intro to Web Dev](http://www.internetfundamentals.com/)
+- [CodePen](https://codepen.io/)
 - [myjson](http://myjson.com/)
 
 # Language Training
 - [Exercism.io](http://exercism.io/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [CodeCademy](https://www.codecademy.com)
 
 ## Documentation
 - [dev docs](https://devdocs.io/)
@@ -209,10 +214,9 @@
 - ### Tutorials
   - [Let's Encrypt Tutorials](https://www.digitalocean.com/community/tags/let-s-encrypt?type=tutorials)
 
----
-
 # Interview Prep
 - [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
+- [Code Wars](https://www.codewars.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
 
@@ -220,3 +224,4 @@
 - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
 - [10 Signs You will Suck at Programming ](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
 - [API Design](https://opensource.zalando.com/restful-api-guidelines/)
+- [Stack Overflow](https://stackoverflow.com/)
