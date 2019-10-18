@@ -78,6 +78,7 @@
 - [Exercism.io](http://exercism.io/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [CodeCademy](https://www.codecademy.com)
+- [TheOdinProject](https://www.theodinproject.com/)
 
 ## Documentation
 - [dev docs](https://devdocs.io/)
