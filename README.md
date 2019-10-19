@@ -36,6 +36,7 @@
 #### Images
 - [Pexels Free Photos](https://www.pexels.com/)
 - [Unsplash Free Photos](https://unsplash.com/)
+- [Freepik](https://freepik.com)
 
 ### Illustrations
 - [Undraw Free Illustrations](https://undraw.co/)
@@ -73,6 +74,7 @@
 - [Intro to Web Dev](http://www.internetfundamentals.com/)
 - [CodePen](https://codepen.io/)
 - [myjson](http://myjson.com/)
+- [w3schools](https://www.w3schools.com/)
 
 # Language Training
 - [Exercism.io](http://exercism.io/)
@@ -119,6 +121,9 @@
 
 #### SQL
 - [MySQL CLI Cheat Sheet](https://gist.github.com/hofmannsven/9164408)
+
+### PHP
+- [Laravel](https://laravel.com)
 
 ###### Misc
 - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
@@ -211,6 +216,7 @@
 - [Foundation by Zurb](https://foundation.zurb.com/)
 - [Bulma](https://bulma.io/)
 - [Skeleton](http://getskeleton.com/)
+- [Tailwind](https://tailwindcss.com/)
 
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
