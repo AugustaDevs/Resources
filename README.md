@@ -164,10 +164,10 @@
 - [Shoptalk Show - Website development](https://shoptalkshow.com/)
 - [Malicious Life - Cybersecurity History](https://malicious.life/)
 - [Syntax- Programming](https://syntax.fm/)
-- [The React Podcast - Programming] (https://reactpodcast.simplecast.fm/)
-- [Javascript - Software Engineering Daily ] (https://player.fm/series/javascript-software-engineering-daily)
-- [React Native Radio- React Native Programming] (https://devchat.tv/react-native-radio/)
-- [React Round Up - React Programming] (https://devchat.tv/react-round-up/)
+- [React] (https://reactpodcast.simplecast.fm/)
+- [Javascript] (https://player.fm/series/javascript-software-engineering-daily/)
+- [React-Native] (https://devchat.tv/react-native-radio/)
+- [React-Round-Up] (https://devchat.tv/react-round-up/)
 
 # Stay Up to Date
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
