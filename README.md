@@ -163,6 +163,11 @@
 - [Developer Tea - Programming and development](https://spec.fm/podcasts/developer-tea)
 - [Shoptalk Show - Website development](https://shoptalkshow.com/)
 - [Malicious Life - Cybersecurity History](https://malicious.life/)
+- [Syntax- Programming](https://syntax.fm/)
+- [React] (https://reactpodcast.simplecast.fm/)
+- [Javascript] (https://player.fm/series/javascript-software-engineering-daily/)
+- [React-Native] (https://devchat.tv/react-native-radio/)
+- [React-Round-Up] (https://devchat.tv/react-round-up/)
 
 # Stay Up to Date
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
