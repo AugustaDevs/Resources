@@ -143,6 +143,7 @@
 - [Wireframes](http://wireframes.tumblr.com/)
 - [The Best Ethical Hacking Online Tutorials For Everyone](https://medium.com/quick-code/the-best-ethical-hacking-video-tutorials-for-everyone-e0cbd465b03c)
 - [Top Online Tutorials To Learn GraphQL](https://medium.com/quick-code/top-online-video-tutorials-to-learn-graphql-458056e3b583)
+- [Free Public APIs](https://github.com/public-apis/public-apis)
 
 # Performance
 - ### Tools
