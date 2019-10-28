@@ -37,6 +37,7 @@
 - [Pexels Free Photos](https://www.pexels.com/)
 - [Unsplash Free Photos](https://unsplash.com/)
 - [Pixabay Free Photos](https://pixabay.com/)
+- [Freepik](https://freepik.com)
 
 ### Illustrations
 - [Undraw Free Illustrations](https://undraw.co/)
@@ -75,6 +76,7 @@
 - [Intro to Web Dev](http://www.internetfundamentals.com/)
 - [CodePen](https://codepen.io/)
 - [myjson](http://myjson.com/)
+- [w3schools](https://www.w3schools.com/)
 
 # Language Training
 - [Exercism.io](http://exercism.io/)
@@ -108,6 +110,10 @@
   - [Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 
+- ###### Responsive Design
+  - [CSS Breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
+  - [Responsive Design Guide](https://www.youtube.com/watch?v=srvUrASNj0s)
+
 #### ES6
 - [ES6 Cheat Sheet](http://es6-features.org/)
 
@@ -121,6 +127,9 @@
 
 #### SQL
 - [MySQL CLI Cheat Sheet](https://gist.github.com/hofmannsven/9164408)
+
+### PHP
+- [Laravel](https://laravel.com)
 
 ###### Misc
 - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
@@ -136,6 +145,7 @@
 - [Wireframes](http://wireframes.tumblr.com/)
 - [The Best Ethical Hacking Online Tutorials For Everyone](https://medium.com/quick-code/the-best-ethical-hacking-video-tutorials-for-everyone-e0cbd465b03c)
 - [Top Online Tutorials To Learn GraphQL](https://medium.com/quick-code/top-online-video-tutorials-to-learn-graphql-458056e3b583)
+- [Free Public APIs](https://github.com/public-apis/public-apis)
 
 # Performance
 - ### Tools
@@ -160,6 +170,11 @@
 - [Developer Tea - Programming and development](https://spec.fm/podcasts/developer-tea)
 - [Shoptalk Show - Website development](https://shoptalkshow.com/)
 - [Malicious Life - Cybersecurity History](https://malicious.life/)
+- [Syntax- Programming](https://syntax.fm/)
+- [React] (https://reactpodcast.simplecast.fm/)
+- [Javascript] (https://player.fm/series/javascript-software-engineering-daily/)
+- [React-Native] (https://devchat.tv/react-native-radio/)
+- [React-Round-Up] (https://devchat.tv/react-round-up/)
 
 # Stay Up to Date
 - [Front End Masters Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
@@ -213,6 +228,7 @@
 - [Foundation by Zurb](https://foundation.zurb.com/)
 - [Bulma](https://bulma.io/)
 - [Skeleton](http://getskeleton.com/)
+- [Tailwind](https://tailwindcss.com/)
 
 # Web Design Inspiration
 - [Brutalist Design](http://brutalistwebsites.com/)
