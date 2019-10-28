@@ -47,6 +47,7 @@
 - [Cloudinary Free Image Hosting](https://cloudinary.com/)
 - [Easing](http://easings.net/)
 - [Can I Use](https://caniuse.com/)
+- [Photo Placeholder](https://picsum.photos/)
 
 ## Cheat Sheets
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
