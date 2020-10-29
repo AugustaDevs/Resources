@@ -9,6 +9,7 @@
 - [bitsbox](https://bitsbox.com/)
 - [Code Ninjas](https://www.codeninjas.com/)
 - [MIT's Scratch](https://scratch.mit.edu/)
+- [Code Combat](https://codecombat.com/play/)
 
 # Cool Stuff
 
@@ -234,6 +235,7 @@
   - [Algorithms](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
   - [Base CS](https://medium.com/basecs)
   - [Computer Science with Ruby](https://computer-science-one.gitbooks.io/cs101-book/content/)
+  - [Codecademy](https://www.codecademy.com/)
 
 # Text Editors
 
